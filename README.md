@@ -1,6 +1,6 @@
 # pipeline-mind 🧠
 
-A multi-agent AI system that ingests your data, remembers what it saw, and tells you what changed — in plain English.
+A multi-agent AI system that ingests your data, remembers what it saw, and tells you what changed in plain English.
 
 Three Claude-powered agents collaborate: one profiles your data, one analyzes trends and compares against previous runs, one writes you a plain-English briefing. Built on raw Claude API + SQLite. No LangChain. No Docker. Runs locally.
 
